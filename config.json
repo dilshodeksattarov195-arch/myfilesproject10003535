@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordercncrypt",
+        "uuid": 27512905,
+        "checksum": "qpqjcs"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
